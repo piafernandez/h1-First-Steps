@@ -132,11 +132,13 @@ Download the current Debian ISO image: debian-live-12.1.0-amd64-xfce.iso
 
    > The numbers and dates locale will be set to Finnish
 
-<img src="C:\Users\ferna\OneDrive - HESSO\Documents\02_School\00_HAAGA-HELIA\Semester VII\01_Information Security - Tero Karvinen\01_Assignments\h1\h1\image-20230825184356132.png" alt="image-20230825184356132" style="zoom:67%;" />
+<img width="334" alt="image" src="https://github.com/piafernandez/h1-First-Steps/assets/71267247/1928f640-0a4a-4596-8d4d-d69829847e66">
+
 
 5. Choose the keyboard you have on your computer.
 
-<img width="335" alt="image" src="https://github.com/piafernandez/h1-First-Steps/assets/71267247/b51012ef-6b1c-4be5-bcc4-91e0c87f302d">
+<img width="335" alt="image" src="https://github.com/piafernandez/h1-First-Steps/assets/71267247/88c0be7c-b848-4b88-8038-8c550ab3fd21">
+
 
 
 6. Erase disk
