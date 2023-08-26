@@ -173,7 +173,7 @@ Download the current Debian ISO image: debian-live-12.1.0-amd64-xfce.iso
 <img width="266" alt="image" src="https://github.com/piafernandez/h1-First-Steps/assets/71267247/98d0091a-0410-41ae-a5b6-a6d3abaf94cf">
 
 
-12. Try browsing the internet to very that everything is working !
+12. Try browsing the internet to verify that everything is working !
 
 
 
